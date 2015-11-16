@@ -1,0 +1,10 @@
+C:\Documents and Settings\jswitt\My Documents\Visual Studio 2008\Projects\mySharpTest\mySharpTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jswitt\My Documents\Visual Studio 2008\Projects\mySharpTest\mySharpTest\bin\Debug\mySharpTest.exe
+C:\Documents and Settings\jswitt\My Documents\Visual Studio 2008\Projects\mySharpTest\mySharpTest\bin\Debug\mySharpTest.pdb
+C:\Documents and Settings\jswitt\My Documents\Visual Studio 2008\Projects\mySharpTest\mySharpTest\obj\Debug\mySharpTest.exe
+C:\Documents and Settings\jswitt\My Documents\Visual Studio 2008\Projects\mySharpTest\mySharpTest\obj\Debug\mySharpTest.pdb
+C:\Users\john\Documents\Visual Studio 2015\Projects\mySharpTest\mySharpTest\obj\Debug\mySharpTest.exe
+C:\Users\john\Documents\Visual Studio 2015\Projects\mySharpTest\mySharpTest\obj\Debug\mySharpTest.pdb
+C:\Users\john\Documents\Visual Studio 2015\Projects\mySharpTest\mySharpTest\bin\Debug\mySharpTest.exe
+C:\Users\john\Documents\Visual Studio 2015\Projects\mySharpTest\mySharpTest\bin\Debug\mySharpTest.pdb
+C:\Users\john\Documents\Visual Studio 2015\Projects\mySharpTest\mySharpTest\obj\Debug\mySharpTest.csprojResolveAssemblyReference.cache
